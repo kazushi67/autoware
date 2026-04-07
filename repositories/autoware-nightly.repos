@@ -25,7 +25,7 @@ repositories:
     version: main
   universe/autoware_universe:
     type: git
-    url: https://github.com/autowarefoundation/autoware_universe.gitz
+    url: https://github.com/autowarefoundation/autoware_universe.git
     version: main
   universe/external/managed_transform_buffer:
     type: git
