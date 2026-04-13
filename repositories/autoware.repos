@@ -127,3 +127,7 @@ repositories:
     type: git
     url: https://github.com/tier4/agnocast.git
     version: 2.3.1
+  vendor/:
+    type: git
+    url: https://github.com/kazushi67/logee_stc_interface.git
+    version: main
